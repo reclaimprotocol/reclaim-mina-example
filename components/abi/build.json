@@ -1,0 +1,8 @@
+{
+  "smartContracts": [
+    {
+      "className": "Reclaim",
+      "filePath": "/Users/billy/Documents/Code/Reclaim/mina-frontend/contracts/build/src/Reclaim.js"
+    }
+  ]
+}
