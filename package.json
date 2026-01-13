@@ -10,7 +10,7 @@
     "ts-watch": "tsc --noEmit --incremental --watch"
   },
   "dependencies": {
-    "@reclaimprotocol/js-sdk": "^2.1.1",
+    "@reclaimprotocol/js-sdk": "^4.7.1",
     "comlink": "^4.4.2",
     "next": "14.2.12",
     "o1js": "^1.*",
